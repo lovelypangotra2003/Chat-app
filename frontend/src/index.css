@@ -9,7 +9,7 @@ body {
 }
 
 /* dark mode looking scrollbar */
-/* ::-webkit-scrollbar {
+::-webkit-scrollbar {
 	width: 20px !important;
 }
 
@@ -24,5 +24,5 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
 	background: #242424 !important;
-} */
+}
 
